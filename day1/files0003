@@ -1,4 +1,16 @@
 Macam - macam tools ticketing :
+---
 1. Trello
 2. Jira
 3. You Track
+
+---
+Trello dikembangkan oleh developer yang sama dengan jira yaitu attlasian.
+Baik Trello maupun jira sama-sama dikembangkan untuk memudahkan programmer dalam mengerjakan sebuah project secara team,
+dan dengan membuat sebuah task untuk masing2 tugas yang diemban dalam pengerjaan proyek aplikasi/website.
+Menurut saya fitur trello lebih dikembangkan secara umum tidak dikhususkan untuk programmer tapi juga dapat dipakai
+oleh pegawai kantoran lain. sedangkan jira dikhususkan pengembangannya untuk melakukan pelacakan bug dalam suatu project.
+- Jika you track dikembangkan oleh jetBrains yang fiturnya dapat di integrasikan dengan github, BitBucket, dan Gitlab
+untuk memudahkan programmer memantau progress pengembangan sebuah project.
+---
+Saya lebih memilih trello karena pernah saya gunakan sebelumnya dan saya sudah sedikit memahami cara kerja dari penggunaannya.
